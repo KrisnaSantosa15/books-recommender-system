@@ -421,7 +421,7 @@ Berdasarkan plot training:
 #### Interpretasi Hasil
 
 - Akurasi Prediksi:
-   - RMSE akhir 0.21 menunjukkan rata-rata kesalahan prediksi sekitar 2.1 poin pada skala rating 0-1
+   - RMSE akhir 0.21 menunjukkan rata-rata kesalahan prediksi sekitar 2.1 poin pada skala rating 1-10
    - Model mencapai konvergensi yang baik setelah epoch ke-5
    - Performa stabil antara data training dan validasi
 
